@@ -17,4 +17,4 @@ jobs:
         server: www.jasperitsolutions.net
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /cicdwithgithub.jasperitsolutions.net/
+        server-dir: jasperitsolutions.net/cicdwithgithub/
